@@ -78,6 +78,8 @@ p.notes {
     text-align: center;
     padding: 8px;
     width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p.links {
