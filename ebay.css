@@ -7,7 +7,7 @@
 #bordered {
     border-width: 2px;
     border-style: solid;
-    margin: 0px;
+    margin: 4px;
     overflow: auto;
     width: 256px;
     margin-left: auto;
